@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The landing of the forces in Kent, with the Duke of York, Prince Maurice, foure collonels, with the revolted ships and officers, and the severall forces in Kent, by sea &amp; land. VVith the oath and declaration of all the officers and souldiers both of sea and land. Also the particulars of their numbers, ordnance, armes, and ammunition.</title>
+         </titleStmt>
+         <extent>Approx. 7KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88604</idno><idno type="EEBO-CITATION">99864378</idno>
+  <idno type="VID">116606</idno>
+  <idno type="EEBO-PROQUEST">2240902372</idno>
+  
+            <idno type="STC">Wing L322</idno>
+            <idno type="STC">Thomason E453_14</idno>
+            <idno type="STC">ESTC R204930</idno>
+            <idno type="PROQUEST">99864378</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99864378e"/>
+            <note>(EEBO-TCP ; phase 2, no. A88604)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 116606)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 72:E453[14])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The landing of the forces in Kent, with the Duke of York, Prince Maurice, foure collonels, with the revolted ships and officers, and the severall forces in Kent, by sea &amp; land. VVith the oath and declaration of all the officers and souldiers both of sea and land. Also the particulars of their numbers, ordnance, armes, and ammunition.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for the generall satisfaction of moderate men,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>M DC XL VIII. [1648]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Annotation on Thomason copy: "July. 18".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Maurice, --  Prince of Orange, 1567-1625 --  Early works to 1800.</term>
+               <term type="geographic_name">Kent (England) --  History --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Simon Charles </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Simon Charles</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:116606:1"/>
+            <p>THE Landing of the Forces in <hi>Kent,</hi> with THE Duke of <hi>York,</hi> Prince <hi>Maurice,</hi> foure Collonels, with the revolted SHIPS and Officers, and the seve<g ref="char:EOLhyphen"/>rall Forces in <hi>Kent,</hi> by Sea &amp; land. VVith the Oath and Declaration of all the Officers and Souldiers both of SEA and LAND. ALSO The particulars of their numbers, Ord<g ref="char:EOLhyphen"/>nance, Armes, and Ammunition.</p>
+            <figure>
+               <figDesc>depiction of war ship</figDesc>
+            </figure>
+            <p>Printed for the generall satisfaction of moderate men. MDCXLVIII.</p>
+         </div>
+      </front>
+      <body>
+         <div type="report">
+            <pb n="1" facs="tcp:116606:2"/>
+            <head>THE Landing of the Forces in <hi>KENT,</hi> With the Duke of <hi>Yorke,</hi> Prince <hi>Maurice,</hi> foure Collonels, &amp;c.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">S</seg>Ince the reducing of <hi>Waymer</hi> Ca<g ref="char:EOLhyphen"/>stle by Col. <hi>Rich</hi> (upon which it was thought that the other two of <hi>Sandwich</hi> and <hi>Deale,</hi> would have done the like) we have had a fresh alarum from the Sea.</p>
+            <p>The revolted Ships are come from <hi>Holland</hi> and are now in the Downes, not to submit (as was once hoped) but to oppose the pow<g ref="char:EOLhyphen"/>er of Parliament, and they have engaged themselves for that purpose.</p>
+            <p>I have here sent you a Copy of the Oath
+<pb n="2" facs="tcp:116606:3"/> taken by the Officers and Sea men, belonging to all those ships, and also by the Officers and Souldiers which they have transported from <hi>Holland</hi> into <hi>England.</hi>
+            </p>
+            <p>The Duke of <hi>York</hi> (his Majesties second Son) is Lord High-Admirall of all his Ma<g ref="char:EOLhyphen"/>jesties ships, and it is said that he is aboard these ships, but some say that he is with those that are to follow.</p>
+            <p>Prince <hi>Maurice,</hi> the Prince <hi>Electors Palla<g ref="char:EOLhyphen"/>tines</hi> second brother, is Rear-Admirall, as we hear, and is also said to be aboard them.</p>
+            <p>The Officers of the ships that disserted the Parliament, have all their Commands, and further promises, with large Commissions granted to them. There are about 500 of the old Seamen, with some recruits added to those which were belonging to the ships be<g ref="char:EOLhyphen"/>fore. There are also Officers for 4 Regia<g ref="char:EOLhyphen"/>ments, that are brought over to be landed here in <hi>England,</hi> to serve the King against the Parliament, some of which Officers are taken out of the ships that revolted. But those Officers have but thin Companies, for they cannot all make above 1000 common soul<g ref="char:EOLhyphen"/>diers.</p>
+            <pb n="3" facs="tcp:116606:3"/>
+            <p>And many of them, both Officers &amp; soul<g ref="char:EOLhyphen"/>diers are <hi>Walloons,</hi> such as served under Quar<g ref="char:EOLhyphen"/>termaster Generall <hi>Dolbier,</hi> the great plunder<g ref="char:EOLhyphen"/>er, that said he hoped this warre would last one seven years, but most part of them are English, there are also some <hi>Dutch</hi> and <hi>French</hi> There are in all the ships 2 or 300 peece of Ordnance, that belong to the ships, and good store of Ammunition, and provisions for their use by Sea.</p>
+            <p>There are also some 4 or 500 Armes for those that they brought for land <gap reason="illegible" resp="#oxf" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ervice.</p>
+            <p>The Country (not onely those that have stood firme for the Parliament, but many others, who have lately appeared against them) seeme to be much (not onely discon<g ref="char:EOLhyphen"/>tented, but) inraged against those that land; Crying out (with much sense and apprehen<g ref="char:EOLhyphen"/>sion of the danger) That Forreigners are brought thither to surprise them:</p>
+            <p>We hear that Sir <hi>Miles Livesey</hi> is preparing to draw towards them with what strength he can conveniently march with.</p>
+            <p>I am perswaded that he will find a great<g ref="char:EOLhyphen"/>deale more ready complyance to joyne with
+<pb n="4" facs="tcp:116606:4"/> him in this designe against this invasion, and the outlandish brought over, then he did in the late commotion about the Petition.</p>
+            <p>There are already 4 or 500 with Armes and Ammunition, And the rest are landing.</p>
+            <p>It is said that they have some small peeces of Artillery a ship board for the land-For<g ref="char:EOLhyphen"/>ces.</p>
+            <p>They have also put in supplies into <hi>Deale</hi> and <hi>Sandwich,</hi> and made great promises to them that they shall have full releife so often as need shall require.</p>
+            <p>But we finde that they are much vexed at the report made to them since they came, of the defeating of the Duke of <hi>Buckingham</hi> and the Lords, and the rest with him.</p>
+            <p>And so farre as I can learne, these that are landed should have joyned with them for the reliefe of <hi>Colchester.</hi>
+            </p>
+            <p>So that (by all probability) upon the ap<g ref="char:EOLhyphen"/>proach of Sir <hi>Miles Livesey,</hi> those that are landed will goe into the two Castles, and the rest into the ships, out of which they came.</p>
+            <p>
+               <hi>I</hi> pray God direct the Parliament, And
+<pb n="5" facs="tcp:116606:4"/> grant that such overtures may be made be<g ref="char:EOLhyphen"/>tween the King and them, that God may have glory by a firme and settled peace in this poore distracted Kingdome.</p>
+            <p>God hath been pleased to manifest him<g ref="char:EOLhyphen"/>selfe wonderfully for his people, I pray God direct all in Authority to lay by sinister re<g ref="char:EOLhyphen"/>spects, and seeke after the saving of a dying Kingdome.</p>
+            <closer>
+               <dateline>Canterbury <date>July 16. 1648</date>
+               </dateline>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="oath">
+            <head>The Oath, and Declaration, taken by the Officers and Sea-men of the revolted Ships. And the Officers and Souldiers, by them transported from <hi>Holland</hi> into ENGLAND.</head>
+            <p>IN pursuance of the Covenant I have already taken, I <hi>A. B.</hi> doe in the presence of Almighty God the Searcher of all hearts, solemnly vow and protest, That in the first place I shall heartily en<g ref="char:EOLhyphen"/>deavour the Freedome and Restauration of my Soveraign Lord King <hi>Charles</hi> to all his full and just Rights: and will behave my selfe faithfully
+<pb n="6" facs="tcp:116606:5"/> in the service of His Highnesse the Prince of <hi>Wales.</hi> Next I doe vow all true obedience to my Lord High Admirall the Duke of <hi>Yorke,</hi> and that I will conform my selfe chearfully to his High<g ref="char:EOLhyphen"/>nesse lawfull Commands, which shall be for the ser<g ref="char:EOLhyphen"/>vice of his Royall Father: that I will hold no cor<g ref="char:EOLhyphen"/>respondence with the Enemy, But shall faithfully discover all Designes that I can come to the know<g ref="char:EOLhyphen"/>ledge of, of that nature; and shall endeavour with the utmost hazzard of my life to defend and protect his Highnesse Person from all danger; nor will ever give consent to deliver him up without the King his Royall Fathers command, or his own consent. And as I shall be faithfull and just in the performance of all this; <hi>so helpe me God, and the contents of this booke.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </back>
+   </text>
+</TEI>
